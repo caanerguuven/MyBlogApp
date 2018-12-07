@@ -1,0 +1,12 @@
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.1\BlogApp.Data.deps.json
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.1\BlogApp.Data.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.1\BlogApp.Data.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.1\BlogApp.Data.csprojAssemblyReference.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.1\BlogApp.Data.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.1\BlogApp.Data.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.1\BlogApp.Data.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.1\BlogApp.Data.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.1\BlogApp.Data.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.1\BlogApp.Entity.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.1\BlogApp.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.1\BlogApp.Data.csproj.CopyComplete

@@ -1,0 +1,32 @@
+﻿@model  IEnumerable<Blog>
+
+<div id="carouselExampleIndicators" class="carousel slide mt-3 mb-3" data-ride="carousel">
+    <ol class="carousel-indicators">
+        @for (int i = 0; i < Model.Count(); i++)
+        {
+            <li data-target="#carouselExampleIndicators" data-slide-to="@i" class="@(i == 0 ? "active" : "")"></li>
+        }
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        @{ var index = 0;}
+        @foreach (var blog in Model)
+        {
+            <div class="carousel-item @(index == 0 ? "active" : "")">
+                <img class="d-block img-fluid" src="~/img/@blog.BlogImage" alt="@blog.BlogTitle">
+                <div class="carousel-caption d-none d-md-block">
+                    <h3>@blog.BlogTitle</h3>
+                    <p>@blog.BlogDescription</p>
+                </div>
+            </div>
+            index++;
+        }
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>

@@ -1,0 +1,65 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@section scripts{
+    <script src="~/lib/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("BlogBody");
+    </script>
+}
+<div class="container mt-3">
+    <h2>Details</h2>
+    <hr />
+
+    <form asp-controller="Blog" asp-action="Edit" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="BlogId" />
+        <input type="hidden" id="BlogImage" name="BlogImage" value="@Model.BlogImage" />
+        <div class="form-group">
+            <label asp-for="BlogTitle">Title</label>
+            <input asp-for="BlogTitle" class="form-control" placeholder="The Title of Blog" />
+        </div>
+        <div class="form-group">
+            <label asp-for="BlogDescription">Description</label>
+            <textarea asp-for="BlogDescription" class="form-control" placeholder="The Description of Blog"></textarea>
+        </div>
+        <div class="form-group">
+            <label asp-for="BlogBody">Body</label>
+            <textarea asp-for="BlogBody" class="form-control" placeholder="Type Any Content"></textarea>
+        </div>
+        <div class="form-group">
+            <img src="~/img/@Model.BlogImage" alt="The image of the blog" width="120" />
+            <input type="file" name="file" id="file" class="form-control" placeholder="Select an image" />
+        </div>
+        <div class="form-group">
+            <label asp-for="IsApproved" class="form-check-label">
+                <input asp-for="IsApproved" class="form-check-input" />
+                Approved
+            </label>
+        </div>
+        <div class="form-group">
+            <label asp-for="IsPublishedInHome" class="form-check-label">
+                <input asp-for="IsPublishedInHome" class="form-check-input" />
+                This Will Publish In Home Page
+            </label>
+        </div>
+        <div class="form-group">
+            <label asp-for="IsPublishedInSlider" class="form-check-label">
+                <input asp-for="IsPublishedInSlider" class="form-check-input" />
+                This Will Publish In Slider
+            </label>
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId">Category</label>
+            <select asp-for="CategoryId" class="form-control mt-3" asp-items="@ViewBag.Categories">
+                <option disabled selected>Please Select An Category</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+

@@ -1,0 +1,16 @@
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.deps.json
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Data.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csprojAssemblyReference.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.csproj.CopyComplete
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\obj\Debug\netcoreapp2.0\BlogApp.Data.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml

@@ -1,0 +1,9 @@
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.1\BlogApp.Entity.deps.json
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.1\BlogApp.Entity.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp2.1\BlogApp.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.csprojAssemblyReference.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp2.1\BlogApp.Entity.pdb

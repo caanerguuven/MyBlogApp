@@ -1,0 +1,16 @@
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.deps.json
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.runtimeconfig.json
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.runtimeconfig.dev.json
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.WebUI.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.Data.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.Data.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.csprojAssemblyReference.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.csproj.CopyComplete
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.dll
+D:\DeveloperSide\MyEducationProjects\BlogApp\BlogApp.WebUI\obj\Debug\netcoreapp2.0\BlogApp.WebUI.pdb
